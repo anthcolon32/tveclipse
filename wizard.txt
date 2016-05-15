@@ -1,8 +1,8 @@
 
-name="WizardName"
+name="Tv Eclipse"
 url="https://archive.org/download/plugin.video.tveclipse/plugin.video.tveclipse.zip"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="My new Wizard with help from Husham"
+img="https://raw.githubusercontent.com/anthcolon32/tveclipse/master/default_bg.jpg"
+fanart=""
+description=""
 
 
